@@ -1,6 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
+
 *{
     margin: 0%;
     padding: 0%;
     box-sizing: border-box;
     font-family: Verdana, sans-serif;
+    color: #8682FB;
+}
+
+header{
+    width: 100vw;
+    height: 10vh;
+    background-color: #1E1B7A ;
+}
+
+header h1{
+    font-family: 'Great Vibes', cursive;
+    text-align: center;
+    font-size: 8vh;
+    padding: 1vh;
+}
+
+main{
+    background-color: #312CC7;
+}
+
+footer{
+    background-color: #1E1B7A;
+    width: 100vw;
+    height: 3vh;
+}
+
+footer p{
+    font-size: 2vh;
+    padding: 0.5vh;
+    text-align: center;
 }
