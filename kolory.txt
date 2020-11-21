@@ -1,5 +1,6 @@
 #8682FB  -  najjaśniejszy
 #3C36FA         |
 #312CC7         |
-#1E1B7A         V
-#42407A  -  najciemniejszy
+#42407A         V
+#1E1B7A   -  najciemniejszy
+ 
